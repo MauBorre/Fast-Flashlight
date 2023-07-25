@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Linterna rápida</string>
+    <string name="app_launcher_name">Linterna rápida</string>
+    <string name="camera_error">Fallo al obtener la camara</string>
+    <string name="camera_permission">El permiso de la camara es necesario</string>
+
+    <!-- Settings -->
+    <string name="turn_flashlight_on">Modo Rápido</string>
+
+</resources>
